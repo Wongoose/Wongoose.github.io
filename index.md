@@ -11,7 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-title: Welcome to Versify Wongoose!
 # Header 1
 ## Header 2
 ### Header 3
