@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Versify Wongoose!
 
 You can use the [editor on GitHub](https://github.com/Wongoose/Wongoose.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,6 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+title: Welcome to Versify Wongoose!
 # Header 1
 ## Header 2
 ### Header 3
